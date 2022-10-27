@@ -18,4 +18,5 @@ tags:
 author: yeji
 paginate: true
 ---
-
+ #study posting~11/15
+ #project 12~
