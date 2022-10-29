@@ -1,5 +1,5 @@
 ---
-date: 2015-09-06 12:00:00
+date: 2022-10-06 12:00:00
 layout: post
 title: Passion is dangerous, go for it!
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
